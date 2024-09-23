@@ -8,7 +8,7 @@
 
 // //     const addtodo = async () => {
 // //         try {
-// //             const response = await fetch("full-stack-todo-bwnz.vercel.app/addtodo", {
+// //             const response = await fetch("https://full-stack-todo-bwnz.vercel.app/addtodo", {
 // //                 method: "POST",
 // //                 headers: {
 // //                     "Content-Type": "application/json",
@@ -29,7 +29,7 @@
 
 // //     const updatetodo = async (id) => {
 // //         try {
-// //             const response = await fetch(`full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
+// //             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
 // //                 method: "PUT",
 // //                 headers: {
 // //                     "Content-Type": "application/json",
@@ -49,7 +49,7 @@
 // //     };
 // //     const deletetodo = async (id) => {
 // //         try {
-// //             const response = await fetch(`full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
+// //             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
 // //                 method: "DELETE",
 // //                 headers: {
 // //                     "Content-Type": "application/json",
@@ -110,7 +110,7 @@
 
 //     const fetchTodos = async () => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/gettodo/${email}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/gettodo/${email}`, {
 //                 method: "GET",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -130,7 +130,7 @@
 
 //     const addtodo = async () => {
 //         try {
-//             const response = await fetch("full-stack-todo-bwnz.vercel.app/addtodo", {
+//             const response = await fetch("https://full-stack-todo-bwnz.vercel.app/addtodo", {
 //                 method: "POST",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -151,7 +151,7 @@
 
 //     const updatetodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
 //                 method: "PUT",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -173,7 +173,7 @@
 
 //     const deletetodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
 //                 method: "DELETE",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -243,7 +243,7 @@
 
 //     const fetchTodos = async () => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/gettodo/${email}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/gettodo/${email}`, {
 //                 method: "GET",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -263,7 +263,7 @@
 
 //     const addtodo = async () => {
 //         try {
-//             const response = await fetch("full-stack-todo-bwnz.vercel.app/addtodo", {
+//             const response = await fetch("https://full-stack-todo-bwnz.vercel.app/addtodo", {
 //                 method: "POST",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -284,7 +284,7 @@
 
 //     const updatetodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
 //                 method: "PUT",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -306,7 +306,7 @@
 
 //     const deletetodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
 //                 method: "DELETE",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -378,7 +378,7 @@
 
 //     const fetchTodos = async () => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/gettodo/${email}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/gettodo/${email}`, {
 //                 method: "GET",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -398,7 +398,7 @@
 
 //     const addtodo = async () => {
 //         try {
-//             const response = await fetch("full-stack-todo-bwnz.vercel.app/addtodo", {
+//             const response = await fetch("https://full-stack-todo-bwnz.vercel.app/addtodo", {
 //                 method: "POST",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -421,7 +421,7 @@
 
 //     const updatetodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
 //                 method: "PUT",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -445,7 +445,7 @@
 
 //     const deletetodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
 //                 method: "DELETE",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -520,7 +520,7 @@
 
 //     const fetchTodos = async () => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/gettodo/${userEmail}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/gettodo/${userEmail}`, {
 //                 method: "GET",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -540,7 +540,7 @@
 
 //     const addTodo = async () => {
 //         try {
-//             const response = await fetch("full-stack-todo-bwnz.vercel.app/addtodo", {
+//             const response = await fetch("https://full-stack-todo-bwnz.vercel.app/addtodo", {
 //                 method: "POST",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -563,7 +563,7 @@
 
 //     const updateTodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
 //                 method: "PUT",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -587,7 +587,7 @@
 
 //     const deleteTodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
 //                 method: "DELETE",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -663,7 +663,7 @@
 
 //     const fetchTodos = async () => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/gettodo/${userEmail}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/gettodo/${userEmail}`, {
 //                 method: "GET",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -683,7 +683,7 @@
 
 //     const addTodo = async () => {
 //         try {
-//             const response = await fetch("full-stack-todo-bwnz.vercel.app/addtodo", {
+//             const response = await fetch("https://full-stack-todo-bwnz.vercel.app/addtodo", {
 //                 method: "POST",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -706,7 +706,7 @@
 
 //     const updateTodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
 //                 method: "PUT",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -730,7 +730,7 @@
 
 //     const deleteTodo = async (id) => {
 //         try {
-//             const response = await fetch(`full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
+//             const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
 //                 method: "DELETE",
 //                 headers: {
 //                     "Content-Type": "application/json",
@@ -814,7 +814,7 @@ const TodoApp = ({ userEmail }) => {
 
     const fetchTodos = async () => {
         try {
-            const response = await fetch(`full-stack-todo-bwnz.vercel.app/gettodo/${userEmail}`, {
+            const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/gettodo/${userEmail}`, {
                 method: "GET",
                 headers: {
                     "Content-Type": "application/json",
@@ -834,7 +834,7 @@ const TodoApp = ({ userEmail }) => {
 
     const addTodo = async () => {
         try {
-            const response = await fetch("full-stack-todo-bwnz.vercel.app/addtodo", {
+            const response = await fetch("https://full-stack-todo-bwnz.vercel.app/addtodo", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
@@ -857,7 +857,7 @@ const TodoApp = ({ userEmail }) => {
 
     const updateTodo = async (id) => {
         try {
-            const response = await fetch(`full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
+            const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/updatetodo/${id}`, {
                 method: "PUT",
                 headers: {
                     "Content-Type": "application/json",
@@ -881,7 +881,7 @@ const TodoApp = ({ userEmail }) => {
 
     const deleteTodo = async (id) => {
         try {
-            const response = await fetch(`full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
+            const response = await fetch(`https://full-stack-todo-bwnz.vercel.app/deletetodo/${id}`, {
                 method: "DELETE",
                 headers: {
                     "Content-Type": "application/json",
