@@ -13,7 +13,7 @@ const Signup = ({ onSignupSuccess }) => {
 
   const handleSignup = async () => {
     try {
-      const response = await fetch('http://localhost:3000/register', {
+      const response = await fetch('full-stack-todo-bwnz.vercel.app/register', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
